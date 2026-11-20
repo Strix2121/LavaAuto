@@ -1,0 +1,18 @@
+{
+  "name": "Lava Auto - إدارة المغسلة",
+  "short_name": "Lava Auto",
+  "description": "إدارة مغسلة سيارات أوتوماتيكية: خدمات، فواتير، مخزن، محاسبة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08131c",
+  "theme_color": "#0b0b0c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
